@@ -19,7 +19,14 @@ This is a fully responsive personal portfolio website designed to showcase my sk
 2. Open index.html in any web browser
 
 ## Live Demo
-https://yourusername.github.io/blessings-portfolio/
+https://github.com/blessingsmaburuse-lab/blessings-portfolio
 
 ## Author
 Blessings Maburuse
+AI Usage Disclosure
+
+Tool: OpenAI ChatGPT
+
+Extent of Use: Used for generating the initial boilerplate for the CSS Grid layout
+
+Human Intervention: I modified the AI-generated CSS to match the project's color palette
